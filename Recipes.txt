@@ -6,4 +6,7 @@ pasta
 chiken fry
 
 
+beans
+pizza
+
 Thank you
